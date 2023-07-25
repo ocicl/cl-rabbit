@@ -1,0 +1,10 @@
+* cl-rabbit
+
+RabbitMQ interface to Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lokedhs/cl-rabbit.git   |
+| commit  | 9603204  |
+| systems | cl-rabbit |
+|---------+-------------------------------------------|
+
