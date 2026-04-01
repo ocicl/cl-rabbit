@@ -8,3 +8,4 @@ RabbitMQ interface to Common Lisp
 | systems | cl-rabbit |
 |---------+-------------------------------------------|
 
+ 
